@@ -1,9 +1,17 @@
 # NY_CitiBike_Reports
 Build dashboards for New York Citi Bike data using Tableau
 
+## Data Processing
+
+Analyzed the NY citi bike trip data for Summer (Jun and Jul) of 2022 and 2023. Used Pandas to combine the Jun and Jul data files of 2022 and 2023 into 2 files - one for 2022 and one for 2023 in dataprocessing.ipynb file. The data files are available in the data folder.
+
+Data source: Downloaded Citi Bike trip history data from https://citibikenyc.com/system-data
+
 ## Analysis
 
-The NYC_citibike tableau file shows the visualizations of the analysis.
+The NYC_citibike tableau file shows the visualizations of the analysis. The link to the tableau file is :
+
+https://public.tableau.com/app/profile/devi.balao.s/viz/NYC_citibike_17000132802160/NYC_Citibike_Story?publish=yes
 
 ### NY_Citibike_Story
 
@@ -49,8 +57,8 @@ When the most used stations are examined, it is interesting to note that the sam
 ![Alt text](image-5.png)
 
 ### Map of the start stations show the stations. 
-- The size of the marker varies based on the number of riders starting from that station 
-- The color of the marker indicates the day of the week for that count.
+- The size of the marker varies based on the number of riders starting from that station .
+- The color of the marker indicates the day of the week.
 
 ![Alt text](image.png)
 
