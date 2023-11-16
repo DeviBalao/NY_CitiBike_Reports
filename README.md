@@ -11,11 +11,15 @@ Analyzed the citi bike data for the **Summer months of Jun and July 2023**.
 
 In last Summer (Jun,Jul -2022), out of the total users of the citi bike, 60.34% were members and 39.66% were casual users.
 
+![Alt text](image-6.png)
+
 In 2023 Summer, **the members increased 9%** and is 69.88%. This shows that the citi bike project is gaining popularity and more people are taking memberships to use it on a regular basis.
+
+![Alt text](image-7.png)
 
 When the most used stations are examined, it is interesting to note that the same stations show up in the list of most used start station and end station. 
 
-![Alt text](image-2.png)
+![Alt text](image-8.png)
 
 #### Grove St PATH topped the list with 10,085 rides started from there and 10,816 rides ended there.
 
@@ -48,9 +52,9 @@ When the most used stations are examined, it is interesting to note that the sam
 - The size of the marker varies based on the number of riders starting from that station 
 - The color of the marker indicates the day of the week for that count.
 
-![Alt text](image-1.png)
+![Alt text](image.png)
 
 Popularity of rideable types shows that citibike is popular than electric bike among both casual users and members. The reason may be the availability or fare of the bikes. The category docked_bike with count of 659 needs to be analyzed further to determine what it represents.
 
-![Alt text](image.png)
+![Alt text](image-2.png)
 
